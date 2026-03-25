@@ -225,7 +225,7 @@ kaggle kernels pull saransaravanan/allinone
 
 ## 👤 Author
 
-**Saravanan B **- [mrsaravananb@gmail.com ](mrsaravananb@gmail.com)
+Saravanan B - [mrsaravananb@gmail.com ](mrsaravananb@gmail.com)
 
 Project Link: [https://github.com/Saravananb91/road-pothole-](https://github.com/Saravananb91/road-pothole-)
 
