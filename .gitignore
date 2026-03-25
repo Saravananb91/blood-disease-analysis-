@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Trained model weights (large files — use Git LFS or share via Drive/Kaggle)
+*.pt
+*.h5
+*.pb
+runs/
+
+# Training logs & outputs
+training_log.csv
+*.csv
+*.log
+
+# Dataset (never commit raw data)
+/data/
+/dataset/
