@@ -96,7 +96,7 @@ Blood Microscopy Image
 ### 1. Clone
 
 ```bash
-git clone https://github.com/your-username/blood-cell-analysis.git
+git clone https://github.com/Saravananb91/blood-disease-analysis.git
 cd blood-cell-analysis
 ```
 
@@ -225,9 +225,13 @@ kaggle kernels pull saransaravanan/allinone
 
 ## 👤 Author
 
-**Saran Saravanan**  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/saransaravanan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
+**Saravanan B **- [mrsaravananb@gmail.com ](mrsaravananb@gmail.com)
+
+Project Link: [https://github.com/Saravananb91/road-pothole-](https://github.com/Saravananb91/road-pothole-)
+
+Portfolio website : [portfolio-saravananb.vercel.app](portfolio-saravananb.vercel.app ) 
+
+Linkedin: [www.linkedin.com/in/saravanan-b-46244b290](www.linkedin.com/in/saravanan-b-46244b290)
 
 ---
 
